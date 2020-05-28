@@ -1,6 +1,6 @@
 # whatsapp_ui
-
-A new Flutter application.
+ 
+Trying to create a UI like whatsapp in Flutter
 
 ## Getting Started
 
